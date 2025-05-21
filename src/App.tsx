@@ -20,8 +20,8 @@ function App() {
       <div className={'group'}>
         <Label>BoxShadow</Label>
         <TagGroup className={'boxShadow'}>
-          <Tag className={'green'}>Standard tag</Tag>
-          <Tag className={'tag box-shadow green'}>Standard tag</Tag>
+          <Tag className={'tag green box-shadow'}>Standard tag</Tag>
+          <Tag className={'tag box-shadow blue'}>Standard tag</Tag>
           <Tag className={'tag box-shadow'}>Standard tag</Tag>
           <Tag className={'tag red box-shadow'}>Standard tag</Tag>
         </TagGroup>
