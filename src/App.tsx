@@ -18,7 +18,7 @@ function App() {
       </TagGroup>
       </div>
       <div className={'group'}>
-        <Label>BoxShadow</Label>
+        <Label>BoxShadow (blur 0.05rem)</Label>
         <TagGroup className={'boxShadow'}>
           <Tag className={'tag green box-shadow'}>Standard tag</Tag>
           <Tag className={'tag box-shadow blue'}>Standard tag</Tag>
